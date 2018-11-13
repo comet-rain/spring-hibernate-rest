@@ -21,16 +21,16 @@
 Реализация REST API:
 
 Получить json всех отелей: 
-get /hotels
+get  /hotels
 
 Получить json отеля по id:
-get /hotels/id
+get  /hotels/id
 
 Сохранить отель:
-post /hotels
+post  /hotels
 
 Обновление отеля:
-put /hotels/id
+put  /hotels/id
 
 Удаление отеля по id:
-delete /hotels/id
+delete  /hotels/id
